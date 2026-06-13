@@ -1,5 +1,5 @@
 ﻿# Cluster_Order
-# 🚀 Cluster_Order
+
 
 Cluster_Order is a MERN stack application designed to efficiently manage and organize orders through a streamlined and user-friendly interface. Built with modern web technologies, it provides a scalable solution for handling order workflows with speed, accuracy, and reliability.
 
@@ -48,8 +48,7 @@ Cluster_Order aims to simplify order management by providing an efficient, scala
 ## 👩‍💻 Author
 
 **Kamakshi Choudhary**
-
-- GitHub: https://github.com/komalkhatod1105
+GitHub: https://github.com/komalkhatod1105
 
 ---
 
